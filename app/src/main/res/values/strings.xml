@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PassLangWord</string>
+    <string name="title_pass">Pass</string>
+    <string name="title_lang">Lang</string>
+    <string name="title_word">Word</string>
+    <string name="user_translate">Translate</string>
+    <string name="btn_check">Check</string>
+    <string name="btn_answer">Answer</string>
+    <string name="ask_word">Elephant</string>
+    <string name="right_answer">Слон</string>
+    <string name="new_word">New Word</string>
+    <!-- WordsCategoriesStrings -->
+    <string name="title_category">Выберите категорию изучаемых слов</string>
+    <string name ="Appearance">Appearance</string>
+    <string name ="Calendar">Calendar</string>
+    <string name ="Children">Children</string>
+    <string name ="City">City</string>
+    <string name ="Environment">Environment</string>
+    <string name ="Foods">Foods and drinks</string>
+    <string name ="Geography">Geography</string>
+    <string name ="Health">Health</string>
+    <string name ="Home">Home</string>
+    <string name ="wortest">wortest</string>
+    <string name ="Sport">Sport</string>
+    <string name ="People">People</string>
+    <string name ="Basic">Basic</string>
+    <string name ="Leisure">Leisure</string>
+    <string name ="Traveling">Traveling</string>
+    <string name ="Work">Work</string>
+    <string-array name="DBnames">
+        <item>Appearance</item>
+        <item>Basic</item>
+        <item>Calendar</item>
+        <item>Children</item>
+        <item>City</item>
+        <item>Environment</item>
+        <item>Foods and drinks</item>
+        <item>Geography</item>
+        <item>Health</item>
+        <item>Home</item>
+        <item>Leisure</item>
+        <item>People</item>
+        <item>Sport</item>
+        <item>Traveling</item>
+        <item>Work</item>
+        <item>wortest</item>
+    </string-array>
+</resources>
